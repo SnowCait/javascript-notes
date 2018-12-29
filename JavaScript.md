@@ -31,3 +31,8 @@ document.querySelectorAll('.ajax-form').forEach((form) => {
   });
 });
 ```
+
+## IDE
+### IntelliJ
+- [`<script>` のインデントをしない](https://intellij-support.jetbrains.com/hc/en-us/community/posts/360000000110-Code-Style-Javascript-indent-problems)
+
