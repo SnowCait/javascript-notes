@@ -3,6 +3,9 @@
 ## 各ブラウザのサポート状況
 - [Can I use](https://caniuse.com/)
 
+## フレームワーク
+軽 < Vue < Angular < React < 重
+
 ## Log
 - `console.log()`
 - `console.warn()`
