@@ -6,6 +6,9 @@
 ## フレームワーク
 軽 < Vue < Angular < React < 重
 
+## Middleware
+- [現代フロントエンドに欠かせないwebpackとBabelを理解しよう - Speaker Deck](https://speakerdeck.com/mukai21/xian-dai-hurontoendoniqian-kasenaiwebpacktobabelwoli-jie-siyou)
+
 ## Log
 - `console.log()`
 - `console.warn()`
