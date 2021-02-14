@@ -15,3 +15,7 @@ WebSocket API を直接扱うのは大変なので Socket.IO を使うのが良�
   - 現在のデファクトだがメンテされてなさそう
     - [Why you should drop ExpressJS in 2021 - DEV Community](https://dev.to/romainlanz/why-you-should-drop-expressjs-in-2021-711)
 - fastify
+
+## Authentication
+
+- [Passport.js](http://www.passportjs.org/)
