@@ -2,10 +2,11 @@
 
 ## WebSocket
 
-WebSocket API を直接扱うのは大変なので Socket.io を使うのが良さそう。
+WebSocket API を直接扱うのは大変なので Socket.IO を使うのが良さそう。
 
 - [Socket.IO](https://socket.io/)
   - [はじめてのSocket.io #1 「リアルタイムなチャットを作る」](https://blog.katsubemakito.net/nodejs/socketio/realtime-chat1)
+  - [Node.js＋Socket.IOで作る、通信対戦ができるHTML5ゲームシステムの作り方 - Yahoo! JAPAN Tech Blog](https://techblog.yahoo.co.jp/javascript/nodejs/online_game_architecture_by_socketio/)
 
 ## Server
 
