@@ -19,3 +19,6 @@ WebSocket API を直接扱うのは大変なので Socket.IO を使うのが良�
 ## Authentication
 
 - [Passport.js](http://www.passportjs.org/)
+
+## Child Process
+- [Node.js の Child Process 研究 : fork・exec・execFile・spawn の違いをサンプルコードとともに検証 - Neo's World](https://neos21.net/blog/2019/10/18-01.html)
