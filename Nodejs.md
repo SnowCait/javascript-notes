@@ -27,3 +27,4 @@ WebSocket API を直接扱うのは大変なので Socket.IO を使うのが良�
 ## NPM
 
 - [package.jsonのversionを更新する - ゆずめも](https://yuzu441.hateblo.jp/entry/2018/03/23/213638)
+- [PowerShellでglobalでインストールしたyarnを実行する方法と、スクリプトの実行が無効になっているってエラーの解決方法 - suzu6の技術ブログ](https://www.suzu6.net/posts/335-windows11-npm-install-global-yarn/)
